@@ -1,0 +1,12 @@
+1º - Fazer o download dos dados na url:
+
+https://www.dropbox.com/s/ahkim9u103v0q9i/health-dataset.zip
+
+2º - Descomprimir os arquivos na pasta atual
+
+3º - Instalar as bibliotecas python (Apenas no caso de rodar a análise de dados):
+
+nltk 3.3.0
+wordcloud 1.4.1
+
+4º - Rodar os notebooks (a ordem está definida pela ordem de execução dos experimentos)
